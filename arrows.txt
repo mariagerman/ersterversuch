@@ -1,6 +1,5 @@
 The ship glides gently on the waves
-<<<<<<< HEAD
 As day turns into night
-=======
-As day turns into night
->>>>>>> 473783315448c03dbc588eef63ae584240d83b47
+
+One thousand burning arrows
+Fill the starlit sky
